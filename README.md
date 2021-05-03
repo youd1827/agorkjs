@@ -1,2 +1,2 @@
 # Teste
-- [ ] Testando123
+- [x] Testando123
